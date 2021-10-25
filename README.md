@@ -1,7 +1,7 @@
 # NTP_GL
 
-
 How to use:
+
 Provide number of seconds for delay. If nothing is provided then 1 second by default.
 
 Examples:
