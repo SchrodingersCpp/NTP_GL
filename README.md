@@ -6,11 +6,11 @@ Provide number of seconds for delay. If nothing is provided then 1 second by def
 
 Examples:
 
-// 1 second delay
+1 second delay:
 
 ./ntp
 
 
-// 10 seconds delay
+10 seconds delay:
 
 ./ntp 10
